@@ -47,5 +47,5 @@ frontend devchief-tech-frontend-https
 
 backend devchief-tech-backend
         balance roundrobin
-        server 515111-web-01 54.90.52.250:80 check
-        server 515111-web-02 34.224.1.13:80 check
+        server 515111-web-01 35.175.104.204:80 check
+        server 515111-web-02 100.25.111.131:80 check
